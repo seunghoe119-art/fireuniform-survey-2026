@@ -26,7 +26,7 @@ export default function Home() {
       const payload = await response.json();
       if (!response.ok) throw new Error(payload.error || "대원을 찾지 못했습니다.");
       const rows = payload.members as Match[];
-      if (!rows.length) return setError("등록된 이름이 없습니다. 이름을 다시 확인해 주세요.");
+      if (!rows.length) return setError("조사 대상자 명단에서 이름을 찾지 못했습니다. 담당자에게 명단 포함 여부를 확인해 주세요.");
       if (rows.length > 1) return setError("같은 이름이 여러 명 등록되어 있습니다. 담당자에게 확인해 주세요.");
       setMember(rows[0]);
     } catch (reason) {
@@ -47,7 +47,7 @@ export default function Home() {
       <header className="topbar">
         <a className="brand" href="/" aria-label="피복 조사 홈">
           <span className="brand-mark">소</span>
-          <span><strong>의용소방대</strong><small>피복 구매 가능 품목 조회</small></span>
+          <span><strong>피복 조회</strong><small>구매 가능 품목 조회</small></span>
         </a>
         <span className="period">2026 상반기</span>
       </header>
