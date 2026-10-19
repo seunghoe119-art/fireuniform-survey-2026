@@ -1,0 +1,1128 @@
+[
+  {
+    "name": "이소정",
+    "group": "existing",
+    "totalAmount": 50000,
+    "purchased": [
+      "p7"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이소자",
+    "group": "existing",
+    "totalAmount": 1800,
+    "purchased": [
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이정주",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김상진",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김영조",
+    "group": "existing",
+    "totalAmount": 70200,
+    "purchased": [
+      "p16",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "강형진",
+    "group": "existing",
+    "totalAmount": 71600,
+    "purchased": [
+      "p16",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김광호",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김희규",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "배병일",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "박경후",
+    "group": "existing",
+    "totalAmount": 75800,
+    "purchased": [
+      "p16",
+      "p19",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "유정태",
+    "group": "existing",
+    "totalAmount": 27500,
+    "purchased": [
+      "p13"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이규호",
+    "group": "existing",
+    "totalAmount": 71600,
+    "purchased": [
+      "p16",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "노복철",
+    "group": "existing",
+    "totalAmount": 72200,
+    "purchased": [
+      "p16",
+      "p19"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김동범",
+    "group": "existing",
+    "totalAmount": 70800,
+    "purchased": [
+      "p7",
+      "p18",
+      "p19",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김현숙",
+    "group": "existing",
+    "totalAmount": 84600,
+    "purchased": [
+      "p16",
+      "p18",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "황정옥",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "박현심",
+    "group": "existing",
+    "totalAmount": 67200,
+    "purchased": [
+      "p8",
+      "p20",
+      "p21",
+      "p22"
+    ],
+    "needs": []
+  },
+  {
+    "name": "최유정",
+    "group": "existing",
+    "totalAmount": 59000,
+    "purchased": [
+      "p9",
+      "p21",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "노은정",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "박한미",
+    "group": "existing",
+    "totalAmount": 70200,
+    "purchased": [
+      "p16",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김영순",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김은정",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "윤희영",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이호숙",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "강영숙",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "황부옥",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "최계식",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "정영선",
+    "group": "existing",
+    "totalAmount": 55000,
+    "purchased": [
+      "p9"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이은영",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "신지원",
+    "group": "existing",
+    "totalAmount": 57600,
+    "purchased": [
+      "p10",
+      "p11",
+      "p20",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "서유경",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "왕단단",
+    "group": "existing",
+    "totalAmount": 53500,
+    "purchased": [
+      "p11",
+      "p13"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이정순",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김성영",
+    "group": "existing",
+    "totalAmount": 71600,
+    "purchased": [
+      "p16",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "최승로",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "정현식",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "문성복",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김충환",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김성규",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김원욱",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "장석봉",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "석형철",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김영동",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "신철진",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김영균",
+    "group": "existing",
+    "totalAmount": 57200,
+    "purchased": [
+      "p9",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "유보선",
+    "group": "existing",
+    "totalAmount": 74000,
+    "purchased": [
+      "p16",
+      "p17"
+    ],
+    "needs": []
+  },
+  {
+    "name": "장태섭",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김춘호",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "여운민",
+    "group": "existing",
+    "totalAmount": 5400,
+    "purchased": [
+      "p20",
+      "p21",
+      "p22"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이민재",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "송창희",
+    "group": "existing",
+    "totalAmount": 50000,
+    "purchased": [
+      "p7"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이명희",
+    "group": "existing",
+    "totalAmount": 30000,
+    "purchased": [
+      "p12"
+    ],
+    "needs": []
+  },
+  {
+    "name": "나남희",
+    "group": "existing",
+    "totalAmount": 80000,
+    "purchased": [
+      "p10",
+      "p11",
+      "p12"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김선아",
+    "group": "existing",
+    "totalAmount": 37000,
+    "purchased": [
+      "p10",
+      "p18"
+    ],
+    "needs": []
+  },
+  {
+    "name": "장영숙",
+    "group": "existing",
+    "totalAmount": 87200,
+    "purchased": [
+      "p16",
+      "p18",
+      "p20",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이한나",
+    "group": "existing",
+    "totalAmount": 58600,
+    "purchased": [
+      "p6",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "나명진",
+    "group": "existing",
+    "totalAmount": 82500,
+    "purchased": [
+      "p6",
+      "p13"
+    ],
+    "needs": []
+  },
+  {
+    "name": "전영아",
+    "group": "existing",
+    "totalAmount": 71600,
+    "purchased": [
+      "p6",
+      "p18",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김선희",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "임현미",
+    "group": "existing",
+    "totalAmount": 69800,
+    "purchased": [
+      "p16",
+      "p21"
+    ],
+    "needs": []
+  },
+  {
+    "name": "최민수",
+    "group": "existing",
+    "totalAmount": 82500,
+    "purchased": [
+      "p6",
+      "p13"
+    ],
+    "needs": []
+  },
+  {
+    "name": "최전수",
+    "group": "existing",
+    "totalAmount": 30000,
+    "purchased": [
+      "p10",
+      "p19",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김배옥",
+    "group": "existing",
+    "totalAmount": 81000,
+    "purchased": [
+      "p16",
+      "p18"
+    ],
+    "needs": []
+  },
+  {
+    "name": "정다혜",
+    "group": "existing",
+    "totalAmount": 19200,
+    "purchased": [
+      "p18",
+      "p20",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "양경규",
+    "group": "existing",
+    "totalAmount": 31900,
+    "purchased": [
+      "p13",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김미숙",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "조진영",
+    "group": "existing",
+    "totalAmount": 80800,
+    "purchased": [
+      "p9",
+      "p10",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "임인정",
+    "group": "existing",
+    "totalAmount": 86400,
+    "purchased": [
+      "p16",
+      "p18",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김재운",
+    "group": "existing",
+    "totalAmount": 88800,
+    "purchased": [
+      "p16",
+      "p18",
+      "p19",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "한성일",
+    "group": "existing",
+    "totalAmount": 75800,
+    "purchased": [
+      "p16",
+      "p19",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "홍정희",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김현호",
+    "group": "existing",
+    "totalAmount": 1800,
+    "purchased": [
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "정미자",
+    "group": "existing",
+    "totalAmount": 50000,
+    "purchased": [
+      "p7"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김경희",
+    "group": "existing",
+    "totalAmount": 83000,
+    "purchased": [
+      "p16",
+      "p17",
+      "p20",
+      "p21",
+      "p22"
+    ],
+    "needs": []
+  },
+  {
+    "name": "이민규",
+    "group": "existing",
+    "totalAmount": 29400,
+    "purchased": [
+      "p10",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "권영태",
+    "group": "existing",
+    "totalAmount": 68000,
+    "purchased": [
+      "p16"
+    ],
+    "needs": []
+  },
+  {
+    "name": "나준표",
+    "group": "existing",
+    "totalAmount": 11400,
+    "purchased": [
+      "p19",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "조성혜",
+    "group": "existing",
+    "totalAmount": 88200,
+    "purchased": [
+      "p16",
+      "p18",
+      "p20",
+      "p21"
+    ],
+    "needs": []
+  },
+  {
+    "name": "손익도",
+    "group": "existing",
+    "totalAmount": 16800,
+    "purchased": [
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "needs": []
+  },
+  {
+    "name": "황종석",
+    "group": "existing",
+    "totalAmount": 81200,
+    "purchased": [
+      "p16",
+      "p19",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "양선미",
+    "group": "existing",
+    "totalAmount": 89100,
+    "purchased": [
+      "p7",
+      "p13",
+      "p20",
+      "p21",
+      "p22",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김현영",
+    "group": "existing",
+    "totalAmount": 88800,
+    "purchased": [
+      "p16",
+      "p17",
+      "p18",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "서삼선",
+    "group": "existing",
+    "totalAmount": 74000,
+    "purchased": [
+      "p16",
+      "p17"
+    ],
+    "needs": []
+  },
+  {
+    "name": "진미자",
+    "group": "existing",
+    "totalAmount": 75200,
+    "purchased": [
+      "p16",
+      "p21",
+      "p22"
+    ],
+    "needs": []
+  },
+  {
+    "name": "김종욱",
+    "group": "existing",
+    "totalAmount": 7800,
+    "purchased": [
+      "p19",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "윤홍진",
+    "group": "existing",
+    "totalAmount": 83200,
+    "purchased": [
+      "p16",
+      "p20",
+      "p21",
+      "p22",
+      "p23"
+    ],
+    "needs": []
+  },
+  {
+    "name": "정인승",
+    "group": "existing",
+    "totalAmount": 30000,
+    "purchased": [
+      "p12"
+    ],
+    "needs": []
+  },
+  {
+    "name": "박미영",
+    "group": "existing",
+    "totalAmount": 106800,
+    "purchased": [
+      "p6",
+      "p7",
+      "p20"
+    ],
+    "needs": []
+  },
+  {
+    "name": "조선희",
+    "group": "existing",
+    "totalAmount": 125000,
+    "purchased": [
+      "p14"
+    ],
+    "needs": []
+  },
+  {
+    "name": "허정애",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "김천재",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "박순영",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "노희영",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "이기범",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "박도현",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "구연진",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p11",
+      "p14"
+    ]
+  },
+  {
+    "name": "김성희",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "서경미",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p11",
+      "p14"
+    ]
+  },
+  {
+    "name": "신순례",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "임경애",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "김종백",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "김경회",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p11",
+      "p14"
+    ]
+  },
+  {
+    "name": "박성진",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p11",
+      "p14"
+    ]
+  },
+  {
+    "name": "백윤광",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p11",
+      "p14"
+    ]
+  },
+  {
+    "name": "이강복",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "윤성한",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p11",
+      "p14",
+      "p16"
+    ]
+  },
+  {
+    "name": "박경우",
+    "group": "new",
+    "totalAmount": 0,
+    "purchased": [],
+    "needs": [
+      "p11",
+      "p14"
+    ]
+  }
+]
+
